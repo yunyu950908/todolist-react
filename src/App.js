@@ -10,7 +10,6 @@ import TodoInput from './TodoInput';
 import TodoItem from './TodoItem';
 import * as localStore from './localStorage';
 
-
 // Component App
 class App extends Component {
     constructor(props) {
